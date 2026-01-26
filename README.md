@@ -15,6 +15,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+## 📈 Contribution Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sasidharsai-2006&theme=react-dark)
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sasidharsai-2006&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
