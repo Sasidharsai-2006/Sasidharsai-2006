@@ -18,8 +18,10 @@
 ## 📈 Contribution Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sasidharsai-2006&theme=react-dark)
 
-### 🔥 Contribution Overview
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sasidharsai-2006&theme=react-dark)
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sasidharsai-2006&theme=darkhub&no-frame=true&row=1&column=6)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
