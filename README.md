@@ -20,7 +20,7 @@
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sasidharsai-2006&theme=onedark&no-frame=true&title=Commit,Repositories,Stars,Followers,PullRequest)
+![GitHub Trophies](https://metrics.lecoq.io/Sasidharsai-2006?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&config.timezone=Asia/Kolkata)
 
 
 
