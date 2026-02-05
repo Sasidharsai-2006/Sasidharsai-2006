@@ -18,14 +18,7 @@
 ## 📈 Contribution Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sasidharsai-2006&theme=react-dark)
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Sasidharsai-2006&show_icons=true&theme=dark)
 
-## 🏆 GitHub Trophies
-![Metrics](https://metrics.lecoq.io/Sasidharsai-2006?template=classic&achievements=1&achievements.display=detailed)
-
-## 🔥 Contribution Activity
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sasidharsai-2006&theme=react-dark)
 
 
 
