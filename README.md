@@ -20,7 +20,8 @@
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sasidharsai-2006&theme=onedark&no-frame=true&row=1&column=5&margin-w=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sasidharsai-2006&theme=onedark&no-frame=true&row=2&column=4&margin-w=15)
+
 
 
 
