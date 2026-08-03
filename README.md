@@ -2,6 +2,31 @@
 # 💫 About Me:
 🚀 Passionate Software Developer | Java & DSA Enthusiast | Problem Solver<br><br>I enjoy turning complex problems into clean, efficient code.<br>Currently strengthening my foundation in Java, Data Structures, and Web Development by solving real-world coding challenges.<br><br>🔹 Motivated fresher with a strong interest in software development and problem solving  <br>🔹 Strong in Java, Data Structures & Algorithms, and core programming concepts  <br>🔹 Actively practicing DSA problems and building projects to apply concepts practically  <br>🔹 Interested in backend development, web applications, and system design (beginner level)  <br>🔹 Quick learner, adaptable, and open to exploring new technologies  <br>
 
+<table>
+<tr>
+<td width="60%">
+
+### &gt; whoami
+
+```yaml
+name     : Sasidhar Sai (Batchu)
+alias    : Sasidharsai-2006
+role     : Final Year CS Undergrad @ Sri Vasavi Engineering College
+lead     : MLSC Tech Lead
+dsa      : 500+ Problems Solved (GeeksforGeeks)
+stack    : Java · Spring Boot · React · MySQL/MongoDB
+learning : System Design & Scalable Backend Systems
+passion  : Clean Code · DSA · Building Real-World Projects
+status   : Open to Opportunities
+```
+
+</td>
+<td width="40%">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+</td>
+</tr>
+</table>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/cRgkgke4) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sasidharsai_29)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@sasidharsa2881) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sasidharsai26@gmail.com) 
