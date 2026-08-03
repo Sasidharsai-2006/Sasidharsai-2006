@@ -20,6 +20,78 @@ status   : Open to Opportunities
 
 </td> <td width="40%"> <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="100%"/> </td> </tr> </table>
 
+### &gt; ls ./projects
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+**📚 Academic Resource Hub**
+
+Student PDF Portal — Backend & Frontend
+
+Full-stack platform for students to access and manage academic PDF resources, live-deployed on Vercel.
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Live-00b09b?style=flat-square"/>
+
+[![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sasidharsai-2006/student-pdf-portal-backend)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+**🏥 VitalGuard AI**
+
+Agentic AI Hospital Discharge Monitoring System
+
+Multi-agent healthcare system using OCR vision to auto-track patient vitals and generate discharge decisions.
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/OCR-CV-FF6F00?style=flat-square"/>
+
+[![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sasidharsai-2006/agentic-ai-hospital-discharge-monitoring-system)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+**🎓 AP EAMCET College Predictor**
+
+Spring Boot + React Full-Stack App
+
+Predicts eligible engineering colleges from rank, category & gender using in-memory Java Streams caching on 1300+ records.
+
+<img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+
+[![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sasidharsai-2006/eamcet-predictor-springboot)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+**🏫 Campus Connect**
+
+College Event & Club Management System
+
+Full-stack platform for clubs, hackathon registrations, announcements, and a gamified achievements leaderboard.
+
+<img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/>
+
+[![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sasidharsai-2006/campus-connect-springboot)
+
+</td>
+</tr>
+</table>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/cRgkgke4) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sasidharsai_29)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@sasidharsa2881) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sasidharsai26@gmail.com) 
