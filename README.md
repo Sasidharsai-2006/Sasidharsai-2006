@@ -7,7 +7,7 @@
 ### &gt; whoami
 
 ```yaml
-name     : Sasidhar Sai (Batchu)
+name     : Sasidhar Sai
 alias    : Sasidharsai-2006
 role     : Final Year CS Undergrad @ Sri Vasavi Engineering College
 lead     : MLSC Tech Lead
