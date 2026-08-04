@@ -137,6 +137,24 @@ Full-stack platform for clubs, hackathon registrations, announcements, and a gam
 ![DBMS](https://img.shields.io/badge/DBMS-336791?style=for-the-badge)
 ![Operating Systems](https://img.shields.io/badge/Operating_Systems-008080?style=for-the-badge)
 ![Computer Networks](https://img.shields.io/badge/Computer_Networks-1E88E5?style=for-the-badge)
+
+
+
+```bash
+$ cat coding_profiles.json
+```
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Sasidharsai06/">
+<img src="https://leetcard.jacoblin.cool/Sasidharsai06?theme=dark&font=JetBrains+Mono&ext=heatmap" width="48%">
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/sasidharsai99/">
+<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=sasidharsai99&theme=dark" width="48%">
+</a>
+
+</p>
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Sasidharsai-2006&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
