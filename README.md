@@ -34,7 +34,7 @@ Full-stack platform for students to access and manage academic PDF resources, li
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-[![Live Demo](https://img.shields.io/badge/Live-Online-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white)](https://academic-resource-hub-phi.vercel.app/subjects)
+[![Live](https://img.shields.io/badge/🚀-Live-00C853?style=for-the-badge)](https://academic-resource-hub-phi.vercel.app/subjects)
 
 [![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sasidharsai-2006/student-pdf-portal-backend)
 
