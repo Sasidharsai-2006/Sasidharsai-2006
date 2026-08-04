@@ -151,7 +151,7 @@ $ cat coding_profiles.json
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/sasidharsai99/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-654%20Problems%20Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
+<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=sasidharsai99&theme=dark" width="48%">
 </a>
 
 </p>
