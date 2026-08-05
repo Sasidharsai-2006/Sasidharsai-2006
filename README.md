@@ -155,19 +155,36 @@ $ cat coding_profiles.json
 </a>
 
 </p>
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sasidharsai-2006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Sasidharsai-2006&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Sasidharsai-2006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
+    height="170"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://streak-stats.demolab.com?user=Sasidharsai-2006&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasidharsai-2006&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasidharsai-2006&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="170"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sasidharsai-2006&theme=tokyonight"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sasidharsai-2006&theme=tokyonight"
+    width="95%"
+    alt="Profile Summary"
+  />
 </p>
 
 ### ✍️ Random Dev Quote
