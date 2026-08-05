@@ -157,13 +157,18 @@ $ cat coding_profiles.json
 </p>
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Sasidharsai-2006&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sasidharsai-2006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Sasidharsai-2006&theme=tokyonight&hide_border=true"/>
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sasidharsai-2006&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasidharsai-2006&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasidharsai-2006&theme=tokyonight&hide_border=true&layout=compact)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sasidharsai-2006&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sasidharsai-2006&theme=tokyonight"/>
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
